@@ -2,7 +2,7 @@
   "domain": "health_pot",
   "name": "Xiaomi Mijia Multifunctional MJYSH01YM",
   "documentation": "https://github.com/Sergey-SRG/Xiaomi-Mijia-Multifunctional-MJYSH01YM",
-  "requirements": ["construct>=2.10.67", "python-miio>=0.5.9.1"],
+  "requirements": ["construct>=2.10.67", "python-miio>=0.5.10"],
   "version": "1.1",
   "dependencies": [],
   "codeowners": [
